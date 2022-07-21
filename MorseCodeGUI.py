@@ -730,7 +730,8 @@ def Init():
     currentCharacter = []
     repeaton = False 
     repeatkey = None
-    layoutmanager.set_active(layoutmanager.mainlayout)    # special case for `typing` target
+    layoutmanager.set_active(layoutmanager.mainlayout)
+    # special case for `typing` target
     if layoutmanager.mainlayoutname == 'typing':
         typestate = TypeState()
     else:

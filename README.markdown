@@ -10,7 +10,7 @@ MorseWriter
 
 This is a small system tray app designed in Python to interpret one or two key presses pressed in a set way (morse) and convert them to the key equivalent. This should mean that a user who has good timing can access the entire computer to write and control their machine - potentially with one or two keys or switches. Mouse implementation is flaky right now.  
 
-For code, bug tracking and feature requests see [https://github.com/willwade/MorseWriter/](https://github.com/willwade/MorseWriter/)
+For code, bug tracking and feature requests see [https://github.com/VenusApple/MorseWriter-master/](https://github.com/VenusApple/MorseWriter-master/)
 
 **Requirements**
 
@@ -41,7 +41,7 @@ pyinstaller MorseCodeGUI.spec
 
 **Usage**
 
-*   [Download the MorseWriter Application and Code Chart from here](https://github.com/willwade/MorseWriter/releases/download/2.2/MorseCodeGUI.zip)
+*   [Download the MorseWriter Application and Code Chart from here](https://github.com/VneusApple/MorseWriter-master/releases/download/2.2/MorseCodeGUI.zip)
 *   Run the MorseWriter.exe 
 *   Select your options
 *   Note the two key option: the key on the left hand pull down menu relates to dit (*) and one on the right relates to dah (-)
@@ -57,7 +57,7 @@ pyinstaller MorseCodeGUI.spec
 * Look at the the code chart below or the coding window. Have it handy or print it!
 * Use notepad to test your typing skills
 * To get used to typing you have to first get used to the speed of things. Just try a e and a t for starters. 
-* Getting auditory feedback on the key entered may be useful. In which case you may find [this additional program](https://github.com/willwade/Scripting-Recipes-for-AT/tree/master/Autohotkey/SoundingKeyboardMouse#keyboard-sounder) of use. 
+* Getting auditory feedback on the key entered may be useful. In which case you may find [this additional program](https://github.com/VenusApple/Scripting-Recipes-for-AT/tree/master/Autohotkey/SoundingKeyboardMouse#keyboard-sounder) of use. 
 
 **Issues:**
 
